@@ -1,0 +1,21 @@
+{
+    "1": {
+        "login": 1,
+        "create_class": 1,
+        "teach_lesson": 7,
+        "give_homework": 1
+    },
+    "2": {
+        "login": 1,
+        "teach_lesson": 5,
+        "give_homework": 5
+    },
+    "3": {
+        "login": 1,
+        "teach_lesson": 1,
+        "record_lesson": 1,
+        "create_content": 2,
+        "post": 3,
+        "confirm_student_tasks": 1
+    }
+}
